@@ -1,5 +1,7 @@
 require 'sinatra/base'
 require './lib/player'
+require './lib/player'
+
 
 
 class Battle < Sinatra::Base
